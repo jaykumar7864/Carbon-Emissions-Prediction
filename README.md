@@ -34,7 +34,7 @@ To run the project locally, one can install the required libraries using the pro
 streamlit run app.py 
 
 
-# ✅ Week 1 Milestone Completed: Stage 1 – Data Cleaning & Preparation - (18 June,2025)
+# ✅ Week 1 Milestone Completed: Stage 1 – Data Cleaning & Preparation 
 
 Used the original Excel dataset (Dataset.xlsx) without converting to CSV
 
@@ -50,7 +50,7 @@ The dataset is now cleaned and prepared, ready for:
 Visualization
 Machine Learning model building (Regression, Forecasting, etc.)
 
-# ✅ Week 2 Milestone Completed: Stage 2 – Data Exploration & Visualization - (24 june,2025)
+# ✅ Week 2 Milestone Completed: Stage 2 – Data Exploration & Visualization
 
 Imported Cleaned Dataset: Used data_clean.csv generated in Stage 1.
 
