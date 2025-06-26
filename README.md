@@ -34,7 +34,7 @@ To run the project locally, one can install the required libraries using the pro
 streamlit run app.py 
 
 
-#✅ Week 1 Milestone Completed: Stage 1 – Data Cleaning & Preparation - (18 June,2025)
+✅# Week 1 Milestone Completed: Stage 1 – Data Cleaning & Preparation - (18 June,2025)
 
 Used the original Excel dataset (Dataset.xlsx) without converting to CSV
 
@@ -43,14 +43,14 @@ Pandas
 
 Jupyter Notebook
 
-#🚀 Ready for Week 2
+🚀# Ready for Week 2
 
 The dataset is now cleaned and prepared, ready for:
 
 Visualization
 Machine Learning model building (Regression, Forecasting, etc.)
 
-#✅ Week 2 Milestone Completed: Stage 2 – Data Exploration & Visualization - (24 june,2025)
+✅# Week 2 Milestone Completed: Stage 2 – Data Exploration & Visualization - (24 june,2025)
 
 Imported Cleaned Dataset: Used data_clean.csv generated in Stage 1.
 
@@ -71,11 +71,11 @@ Outlier detection using visual tools
 
 Detected Dependencies & Trends: Observed connections and trends in the data based on the visualizations.
 
-#📁 Files Included
+📁# Files Included
 
 data_exploration.ipynb → Jupyter Notebook for EDA, feature analysis, and plots
 
-#🛠 Tools Used
+🛠# Tools Used
 
 Pandas
 
